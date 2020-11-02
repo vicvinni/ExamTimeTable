@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ExamTimetable
 {
@@ -6,7 +7,9 @@ namespace ExamTimetable
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
+
+
     }
 }

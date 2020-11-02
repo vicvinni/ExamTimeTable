@@ -1,0 +1,13 @@
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\bin\Debug\netcoreapp3.1\ExamTimetableBusiness.exe
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\bin\Debug\netcoreapp3.1\ExamTimetableBusiness.deps.json
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\bin\Debug\netcoreapp3.1\ExamTimetableBusiness.runtimeconfig.json
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\bin\Debug\netcoreapp3.1\ExamTimetableBusiness.runtimeconfig.dev.json
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\bin\Debug\netcoreapp3.1\ExamTimetableBusiness.dll
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\bin\Debug\netcoreapp3.1\ExamTimetableBusiness.pdb
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\obj\Debug\netcoreapp3.1\ExamTimetableBusiness.csprojAssemblyReference.cache
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\obj\Debug\netcoreapp3.1\ExamTimetableBusiness.AssemblyInfoInputs.cache
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\obj\Debug\netcoreapp3.1\ExamTimetableBusiness.AssemblyInfo.cs
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\obj\Debug\netcoreapp3.1\ExamTimetableBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\obj\Debug\netcoreapp3.1\ExamTimetableBusiness.dll
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\obj\Debug\netcoreapp3.1\ExamTimetableBusiness.pdb
+C:\Users\Vinni\source\repos\vicvinni\ExamTimeTable\ExamTimetable\ExamTimetableBusiness\obj\Debug\netcoreapp3.1\ExamTimetableBusiness.genruntimeconfig.cache
